@@ -2,8 +2,8 @@ This module-5 assignment is finished by YX.
 
 Others' assignments I reviewed:  
 
-https://aura-zx.github.io/coursera-front-end-basic/module4-solution/assignment4-solution-starter/harder/index.html
+https://millonesdecolores.github.io/module5/
 
-http://bassdeal.github.io/week4Assign/
+https://maryam7607.github.io/Assignment-4/assignment5-solution-starter/index.html
 
-https://sparkshift.github.io/coursera_webdev/assignments/assignment4
+https://aura-zx.github.io/coursera-front-end-basic/module5-solution/index.html
